@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{889A0439-A449-48D7-AC65-E51DF3650C98}|ToolGK\\ToolGK.csproj|c:\\users\\khainv\\downloads\\toolgk\\toolgk\\toolgk\\views\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889A0439-A449-48D7-AC65-E51DF3650C98}|ToolGK\\ToolGK.csproj|solutionrelative:toolgk\\views\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889A0439-A449-48D7-AC65-E51DF3650C98}|ToolGK\\ToolGK.csproj|C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\toolgk\\views\\layout\\importcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889A0439-A449-48D7-AC65-E51DF3650C98}|ToolGK\\ToolGK.csproj|solutionrelative:toolgk\\views\\layout\\importcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889A0439-A449-48D7-AC65-E51DF3650C98}|ToolGK\\ToolGK.csproj|C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\toolgk\\views\\layout\\exportloginmypagelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889A0439-A449-48D7-AC65-E51DF3650C98}|ToolGK\\ToolGK.csproj|solutionrelative:toolgk\\views\\layout\\exportloginmypagelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889A0439-A449-48D7-AC65-E51DF3650C98}|ToolGK\\ToolGK.csproj|C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\toolgk\\views\\layout\\exportdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889A0439-A449-48D7-AC65-E51DF3650C98}|ToolGK\\ToolGK.csproj|solutionrelative:toolgk\\views\\layout\\exportdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889A0439-A449-48D7-AC65-E51DF3650C98}|ToolGK\\ToolGK.csproj|C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\toolgk\\views\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{889A0439-A449-48D7-AC65-E51DF3650C98}|ToolGK\\ToolGK.csproj|solutionrelative:toolgk\\views\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889A0439-A449-48D7-AC65-E51DF3650C98}|ToolGK\\ToolGK.csproj|C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\toolgk\\views\\layout\\exportdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{889A0439-A449-48D7-AC65-E51DF3650C98}|ToolGK\\ToolGK.csproj|solutionrelative:toolgk\\views\\layout\\exportdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889A0439-A449-48D7-AC65-E51DF3650C98}|ToolGK\\ToolGK.csproj|C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\toolgk\\control\\controlfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889A0439-A449-48D7-AC65-E51DF3650C98}|ToolGK\\ToolGK.csproj|solutionrelative:toolgk\\control\\controlfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportCourse.cs",
+              "DocumentMoniker": "C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\ToolGK\\Views\\Layout\\ImportCourse.cs",
+              "RelativeDocumentMoniker": "ToolGK\\Views\\Layout\\ImportCourse.cs",
+              "ToolTip": "C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\ToolGK\\Views\\Layout\\ImportCourse.cs",
+              "RelativeToolTip": "ToolGK\\Views\\Layout\\ImportCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-28T02:09:37.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportLoginMypageLog.cs",
+              "DocumentMoniker": "C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\ToolGK\\Views\\Layout\\ExportLoginMypageLog.cs",
+              "RelativeDocumentMoniker": "ToolGK\\Views\\Layout\\ExportLoginMypageLog.cs",
+              "ToolTip": "C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\ToolGK\\Views\\Layout\\ExportLoginMypageLog.cs",
+              "RelativeToolTip": "ToolGK\\Views\\Layout\\ExportLoginMypageLog.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-28T02:09:37.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExportDatabase.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\ToolGK\\Views\\Layout\\ExportDatabase.cs",
+              "RelativeDocumentMoniker": "ToolGK\\Views\\Layout\\ExportDatabase.cs",
+              "ToolTip": "D:\\VietIS\\GK\\Source\\ToolGK\\ToolGK\\ToolGK\\Views\\Layout\\ExportDatabase.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-28T02:09:37.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\ToolGK\\Views\\Layout\\ExportDatabase.cs",
+              "RelativeDocumentMoniker": "ToolGK\\Views\\Layout\\ExportDatabase.cs",
+              "ToolTip": "C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\ToolGK\\Views\\Layout\\ExportDatabase.cs",
+              "RelativeToolTip": "ToolGK\\Views\\Layout\\ExportDatabase.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-28T02:09:37.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\ToolGK\\Views\\Main.cs",
+              "RelativeDocumentMoniker": "ToolGK\\Views\\Main.cs",
+              "ToolTip": "C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\ToolGK\\Views\\Main.cs [Design]",
+              "RelativeToolTip": "ToolGK\\Views\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:09:37.446Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ControlFile.cs",
+              "DocumentMoniker": "C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\ToolGK\\Control\\ControlFile.cs",
+              "RelativeDocumentMoniker": "ToolGK\\Control\\ControlFile.cs",
+              "ToolTip": "C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\ToolGK\\Control\\ControlFile.cs",
+              "RelativeToolTip": "ToolGK\\Control\\ControlFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:09:37.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\ToolGK\\Views\\Main.cs",
+              "RelativeDocumentMoniker": "ToolGK\\Views\\Main.cs",
+              "ToolTip": "C:\\Users\\khainv\\Downloads\\ToolGK\\ToolGK\\ToolGK\\Views\\Main.cs",
+              "RelativeToolTip": "ToolGK\\Views\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwFACAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:09:37.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
